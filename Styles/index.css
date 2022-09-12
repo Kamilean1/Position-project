@@ -1,0 +1,46 @@
+.Logo {
+
+    height: 32px;
+    width: 185px;
+    margin-top: 42px;
+    margin-left: 144px;
+}
+
+section {
+    display: inline-block;
+}
+
+.Main-title {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 54px;
+    /* or 123% */
+    color: #2F281E;
+    margin-top: 211px;
+    margin-left: 145px;
+    margin-right: 737px;
+}
+
+.Main-info {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    color: #544837;
+    margin-top: 30px;
+    margin-left: 145px;
+}
+
+.Image-1 {
+    width: 605px;
+    height: 496px;
+    left: 666px;
+    top: 128px;
+    margin-top: 128px;
+    margin-left: 63px;
+    margin-right: 129px;
+}
