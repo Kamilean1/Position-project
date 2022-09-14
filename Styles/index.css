@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .Logo {
 
     height: 32px;
@@ -7,7 +12,7 @@
 }
 
 section {
-    display: inline-block;
+    display: flex;
 }
 
 .Main-title {
@@ -33,14 +38,51 @@ section {
     color: #544837;
     margin-top: 30px;
     margin-left: 145px;
+
 }
 
 .Image-1 {
     width: 605px;
     height: 496px;
-    left: 666px;
-    top: 128px;
     margin-top: 128px;
-    margin-left: 63px;
-    margin-right: 129px;
+    margin-left: 3px;
+    display: flex;
+}
+
+.Image-2 {
+    width: 467px;
+    height: 438px;
+    margin-top: 29px;
+    display: flex;
+
+}
+
+.Button-1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #FFFFFF;
+    background-color: #FF9900;
+    margin-top: 15px;
+    margin-left: 41px;
+    height: 53px;
+    width: 175px;
+    border: none;
+
+}
+
+.Button-2 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    text-decoration-line: underline;
+    color: #FF9900;
+    border: none;
+    background-color: #FFFFFF;
 }
