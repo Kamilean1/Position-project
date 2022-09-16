@@ -58,7 +58,7 @@ section {
     /* identical to box height */
     color: #FFFFFF;
     background-color: #FF9900;
-    margin-top: 15px;
+    margin-top: 5px;
     margin-left: 100px;
     height: 53px;
     width: 175px;
@@ -87,8 +87,210 @@ section {
     line-height: 54px;
     text-align: center;
     color: #2F281E;
-    margin-top: 110px;
-    margin-left: 450px;
-    
+    margin-top: 50px;
+    margin-left: 300px;
+    position: absolute;
 }
 
+.Container-1 {
+    height: 178px;
+    width: 240px;
+    margin-top: 400px;
+    margin-left: 130px;
+
+}
+
+.Container-2 {
+    height: 178px;
+    width: 240px;
+    margin-top: 400px;
+    margin-left: 50px;
+
+}
+
+.Container-3 {
+    height: 178px;
+    width: 240px;
+    margin-top: 400px;
+    margin-left: 50px;
+
+}
+
+.Container-4 {
+    height: 178px;
+    width: 240px;
+    margin-top: 400px;
+    margin-left: 50px;
+}
+
+.Cards {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    /* identical to box height */
+    color: #2F281E;
+}
+
+.Card-text {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+.Button-3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #FFFFFF;
+    border: none;
+    background-color: #FF9900;
+    width: 175px;
+    height: 53px;
+    margin-top: 650px;
+    position: absolute;
+    left: 600px;
+
+}
+
+.Text-info-2 {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 130px;
+}
+
+.Heading3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #544837;
+}
+
+.Title-3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    color: #2F281E;
+}
+
+.Heading-3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    color: #2F281E;
+}
+
+.Info-3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+
+}
+
+.Image-2 {
+    display: flex;
+    margin-top: 330px;
+    margin-left: 700px;
+}
+
+.Layout-4 {
+    display: flex;
+    margin-left: 800px;
+    margin-top: 150px;
+}
+
+.Heading-4 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #544837;
+    margin-right: 130px;
+}
+
+.Title-4 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    color: #2F281E;
+}
+
+.Info-4 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+}
+
+.Checkbox-1 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+    margin-top: 30px;
+}
+
+.Checkbox-2 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+    margin-top: 30px;
+}
+
+.Checkbox-3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+    margin-top: 30px;
+}
+
+.Checkbox {
+    display: flex;
+    margin-left: -60px;
+    position: absolute;
+}
+
+.Image-3 {
+    position: absolute;
+    left: 110px;
+}
