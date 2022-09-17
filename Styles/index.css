@@ -294,3 +294,120 @@ section {
     position: absolute;
     left: 110px;
 }
+
+.Layout-5 {
+    display: flex;
+    margin-left: 130px;
+    margin-top: 143px;
+}
+
+.Heading5 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #544837;
+}
+
+.Title-5 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+    color: #2F281E;
+}
+
+.Heading-5 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    color: #2F281E;
+}
+
+.Info-5 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    color: #544837;
+
+}
+
+.Image-4 {
+    display: flex;
+    margin-left: 82px;
+
+}
+
+.Logo-2 {
+    display: flex;
+    margin-top: 249px;
+    margin-left: 173px;
+    margin-bottom: 44px;
+}
+
+.Footer-buttons {
+    transform: translateX(550px);
+    position: absolute;
+}
+
+.Footer-button {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    /* or 219% */
+    color: #544837;
+    border: none;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Footer-buttons2 {
+    transform: translateX(800px);
+}
+
+.Footer-button2 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    /* or 219% */
+    color: #544837;
+    border: none;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+}
+
+.Footer-button3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    background-color: #FF9900;
+    border-radius: 3px;
+    display: flex;
+    margin-left: 1000px;
+    margin-top: -48px;
+    margin-bottom: 150px;
+}
